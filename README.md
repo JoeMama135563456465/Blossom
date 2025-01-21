@@ -4,9 +4,7 @@ Blossom is a powerful executable tool for Roblox. Its main purpose is to inject 
 
 ## About This Executor
 
-Blossom Executor is a personal project that I’m building for fun and learning to program. Disclaimer: this is a solo project and I am not currently looking to scale up the team or work with others. I hope to build something that is indicative of me and my vision even if it’s just for myself.
-
-It’s an experiment with my coding love, and it’s a great way to get to know software development, in the case of game updates. At every step of development, I’ll try to get input from the community and keep improving the software so it runs smooth and fun for anyone who does use it.
+Blossom Executor is a personal project that I’m building for fun and learning to program which this is a solo project and I am not looking to get more developers. It’s an experiment with my coding love, and it’s a great way to get to know software development, in the case of game updates. At every step of development, I’ll try to get input from the community and keep improving the software so it runs smooth and fun for anyone who does use it.
 
 ## Release Date
 
