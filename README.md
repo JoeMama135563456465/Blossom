@@ -1,4 +1,18 @@
 # Donrods-Executor
 
-> [!IMPORTANT]
-> This is bannable. Use at your own risk.
+> [!CAUTION]
+> This is and will be bannable. Use at your own risk.
+
+## About This Executor
+
+> [!NOTE]
+> Im not sure about enforcing this but its planned.
+
+This is a solo project im doing just for fun and i don't plan on getting more people to work on this.
+
+## Release Date
+
+> [!WARNING]
+> The date is just an estimate and its not guaranteed.
+
+The release of this executor is expected to be near the end of 2025.
