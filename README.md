@@ -15,3 +15,7 @@ Blossom Executor is a personal project that im doing for fun and learning to pro
 ## Release Date
 
 Blossom Executor should be out around end of 2025. im a student and so I don’t have time to really work much in this project. Trying to fit school work and coding into my life means it is not always going as quickly as I would like. I procrastinate, but I’m trying to finish this project once school ends.
+
+# Other Projects
+
+I currently don't have any other project right now but maybe i might make something new.
