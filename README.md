@@ -1,4 +1,4 @@
-# Blossom-Executor
+# Blossom Executor
 
 > [!CAUTION]
 > This is and will be bannable. Use at your own risk.
