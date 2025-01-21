@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This is still in development and roblox might post more bugs so this might bug alot.
 
-# Blossom Executor
+# Blossom
 
 > [!CAUTION]
 > This can and will get you banned. Use at your own risk.
@@ -19,3 +19,7 @@ Blossom Executor should be out around end of 2025. im a student and so I don’t
 # Other Projects
 
 I currently don't have any other project right now but maybe i might make something new.
+
+## Project Nova..?
+
+Project Nova could be something about helping roblox and not related to exploiting.
