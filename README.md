@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This is still in development and roblox might post more bugs so this might bug alot.
+
 # Blossom Executor
 
 Blossom is a powerful executable tool for Roblox. Its main purpose is to inject scripts into Roblox games and give users the ability to customize their gameplay experience. However, use this tool at your own risk as Roblox will look out for these kinds of behavior and may impose punishment on users that break their terms of service. So please do it with caution and know what you’re going to get into.
