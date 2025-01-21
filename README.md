@@ -3,6 +3,8 @@
 > [!CAUTION]
 > This is and will be bannable. Use at your own risk.
 
+This is an executor for exploiters and Roblox will and can take action so be careful.
+
 ## About This Executor
 
 > [!NOTE]
