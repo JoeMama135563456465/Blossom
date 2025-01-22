@@ -6,7 +6,7 @@
 > [!CAUTION]
 > This can and will get you banned. Use at your own risk.
 
-Blossom is a powerful executable tool for Roblox. Its main purpose is to inject scripts into Roblox games and give users the ability to customize their gameplay experience. However, use this tool at your own risk as Roblox will look out for these kinds of behavior and may impose punishment on users that break their terms of service. So please do it with caution and know what you’re going to get into.
+Blossom is a exploiting tool for Roblox. Its main purpose is to inject scripts into games and give users the ability to exploit. use this tool at your own risk as Roblox will look out for these kinds of behavior and may impose punishment on users that break their terms of service. So please do it with caution and know what you’re going to get into.
 
 ## About This Executor
 
@@ -16,10 +16,5 @@ Blossom Executor is a personal project that im doing for fun and learning to pro
 
 Blossom Executor should be out around end of 2025. im a student and so I don’t have time to really work much in this project. Trying to fit school work and coding into my life means it is not always going as quickly as I would like. I procrastinate, but I’m trying to finish this project once school ends.
 
-# Other Projects
-
-I currently don't have any other project right now but maybe i might make something new.
-
-## Project Nova..?
-
-Project Nova could be something about helping roblox and not related to exploiting.
+> [!IMPORTANT]
+> Since im just one developer working on this, it may take longer since i only know lua and Only Roblox Lua.
