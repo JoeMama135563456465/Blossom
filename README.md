@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This is still in development and roblox might post more bugs so this might bug alot. If there is any bug that im not aware of, either make a report or dm me on discord via (Donrod83).
+> This is still in development and roblox might post more bugs so this might bug alot. If there is any bugs that im not aware of, either make a report or dm me on discord via (Donrod83).
 
 # Blossom
 
